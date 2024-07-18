@@ -14,26 +14,36 @@
 
 ## 🛠️ Skills
 
-- **Machine Learning & AI** 🤖: ![Scikit-learn](https://img.shields.io/badge/-Scikit%20learn-F7931E?logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?logo=Keras&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=PyTorch&logoColor=white) ![XGBoost](https://img.shields.io/badge/-XGBoost-00BFFF?logo=XGBoost&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/-Scikit%20learn-F7931E?logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?logo=TensorFlow&logoColor=white">
+  <img src="https://img.shields.io/badge/-Keras-D00000?logo=Keras&logoColor=white">
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?logo=PyTorch&logoColor=white">
+  <img src="https://img.shields.io/badge/-XGBoost-00BFFF?logo=XGBoost&logoColor=white">
+  <img src="https://img.shields.io/badge/-NLTK-0096D6?logo=nltk&logoColor=white">
+  <img src="https://img.shields.io/badge/-SpaCy-09A3D5?logo=spaCy&logoColor=white">
+  <img src="https://img.shields.io/badge/-BERT-FFFFFF?logo=BERT&logoColor=black">
+  <img src="https://img.shields.io/badge/-GPT-FFFFFF?logo=GPT-3&logoColor=black">
+  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?logo=OpenCV&logoColor=white">
+  <img src="https://img.shields.io/badge/-YOLO-00FFFF?logo=YOLO&logoColor=black">
+  <img src="https://img.shields.io/badge/-CNNs-FF0000?logo=CNNs&logoColor=white">
+  <img src="https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white">
+  <img src="https://img.shields.io/badge/-Numpy-013243?logo=numpy&logoColor=white">
+  <img src="https://img.shields.io/badge/-Matplotlib-4169E1?logo=matplotlib&logoColor=white">
+  <img src="https://img.shields.io/badge/-Seaborn-4B8BBE?logo=seaborn&logoColor=white">
+  <img src="https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly&logoColor=white">
+  <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white">
+  <img src="https://img.shields.io/badge/-Hadoop-66CCFF?logo=apache-hadoop&logoColor=black">
+  <img src="https://img.shields.io/badge/-Spark-E25A1C?logo=apache-spark&logoColor=white">
+  <img src="https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white">
+  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white">
+  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white">
+</p>
 
-- **Natural Language Processing (NLP)** 🗣️: ![NLTK](https://img.shields.io/badge/-NLTK-0096D6?logo=nltk&logoColor=white) ![SpaCy](https://img.shields.io/badge/-SpaCy-09A3D5?logo=spaCy&logoColor=white) ![BERT](https://img.shields.io/badge/-BERT-FFFFFF?logo=BERT&logoColor=black) ![GPT](https://img.shields.io/badge/-GPT-FFFFFF?logo=GPT-3&logoColor=black)
-
-- **Computer Vision** 👁️: ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=OpenCV&logoColor=white) ![YOLO](https://img.shields.io/badge/-YOLO-00FFFF?logo=YOLO&logoColor=black) ![CNNs](https://img.shields.io/badge/-CNNs-FF0000?logo=CNNs&logoColor=white)
-
-- **Data Analysis & Visualization** 📊: ![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white) ![Numpy](https://img.shields.io/badge/-Numpy-013243?logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/-Matplotlib-4169E1?logo=matplotlib&logoColor=white) ![Seaborn](https://img.shields.io/badge/-Seaborn-4B8BBE?logo=seaborn&logoColor=white) ![Plotly](https://img.shields.io/badge/-Plotly-3F4F75?logo=plotly&logoColor=white)
-
-- **Programming** 💻: ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-
-- **Databases** 🗄️: ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/-SQLite-003B57?logo=sqlite&logoColor=white)
-
-- **Big Data** 📈: ![Hadoop](https://img.shields.io/badge/-Hadoop-66CCFF?logo=apache-hadoop&logoColor=black) ![Spark](https://img.shields.io/badge/-Spark-E25A1C?logo=apache-spark&logoColor=white)
-
-- **Cloud Services** ☁️: ![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)
-
-- **Containerization** 📦: ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-
-- **Version Control** 🔄: ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
-  
 ## 🛠️ Languages and Tools
 
 <p align="center">
