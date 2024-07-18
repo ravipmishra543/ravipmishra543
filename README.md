@@ -1,12 +1,20 @@
-# 👋 Hello there! Nice to see you...👋
-
-## **Ravi Prakash Mishra**
-I'm an Artificial Intelligence and Machine Learning Engineer passionate about turning data into actionable insights. Welcome to my GitHub profile!
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="50">
+  <h1>👋 Hello there! Nice to see you...👋</h1>
+  <h2>Ravi Prakash Mishra</h2>
+  <p>I'm an Artificial Intelligence and Machine Learning Engineer passionate about turning data into actionable insights. Welcome to my GitHub profile!</p>
+</p>
 
 ## 🔗 Connect with Me
 
-- **LinkedIn:** [Ravi Prakash Mishra](https://linkedin.com/in/raviprakashmishra4362aa258)
-- **GitHub:** [ravipmishra543](https://github.com/ravipmishra543)
+<p align="center">
+  <a href="https://linkedin.com/in/raviprakashmishra4362aa258"><img src="https://img.shields.io/badge/LinkedIn-Ravi%20Prakash%20Mishra-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://github.com/ravipmishra543"><img src="https://img.shields.io/badge/GitHub-ravipmishra543-lightgrey?style=flat-square&logo=github"></a>
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/YOUR-QR-CODE.png" width="150">
+</p>
 
 ## 🛠️ Skills
 
@@ -39,6 +47,29 @@ I'm an Artificial Intelligence and Machine Learning Engineer passionate about tu
 
 - **Version Control** 🔄: GitHub  
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+  
+## 🛠️ Languages and Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white">
+  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white">
+  <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white">
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+  <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white">
+  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white">
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white">
+  <img src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white">
+  <img src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white">
+</p>
 
 ## 🌟 Professional Summary
 
@@ -99,4 +130,6 @@ I'm a self-driven and analytical Machine Learning Engineer with over four years 
 
 I'm always open to new projects, creative ideas, and opportunities to collaborate. Feel free to explore my repositories, and let's create something amazing together! 🚀
 
-![Coding GIF](https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif)
+<p align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300">
+</p>
