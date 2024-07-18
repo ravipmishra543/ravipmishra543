@@ -1,27 +1,12 @@
-# Hey there! 👋
+# 👋 Hello there! Nice to see you...👋
 
-I'm **Ravi Prakash Mishra**, a Machine Learning Engineer passionate about turning data into actionable insights. Welcome to my GitHub profile!
+## **Ravi Prakash Mishra**
+I'm an Artificial Intelligence and Machine Learning Engineer passionate about turning data into actionable insights. Welcome to my GitHub profile!
 
 ## 🔗 Connect with Me
 
 - **LinkedIn:** [Ravi Prakash Mishra](https://linkedin.com/in/raviprakashmishra4362aa258)
 - **GitHub:** [ravipmishra543](https://github.com/ravipmishra543)
-
-## 🌟 Professional Summary
-
-I'm a self-driven and analytical Machine Learning Engineer with over four years of experience in Python programming, data analysis, visualization, and AI-based model development. My expertise includes predictive modeling, data cleaning, and statistical analysis. I leverage advanced technologies to drive business growth, and I'm known for my strong problem-solving abilities and excellent communication skills.
-
-## 💼 Professional Experience
-
-### 🧑‍💻 Data Analyst and Machine Learning Freelance Consultant
-*May 2021 - Present*
-- 📊 Provided data analysis, machine learning model training, and Excel-related services to US clients.
-- 💼 Conducted financial analysis, constructed portfolios, and performed quantitative research.
-
-### 🏭 Assistant Manager at United Printing Press
-*December 2007 - May 2021*
-- 📅 Managed daily operations, production schedules, and supervised staff.
-- 🚀 Streamlined production processes and improved efficiency.
 
 ## 🛠️ Skills
 
@@ -54,6 +39,22 @@ I'm a self-driven and analytical Machine Learning Engineer with over four years 
 
 - **Version Control** 🔄: GitHub  
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+
+## 🌟 Professional Summary
+
+I'm a self-driven and analytical Machine Learning Engineer with over four years of experience in Python programming, data analysis, visualization, and AI-based model development. My expertise includes predictive modeling, data cleaning, and statistical analysis. I leverage advanced technologies to drive business growth, and I'm known for my strong problem-solving abilities and excellent communication skills.
+
+## 💼 Professional Experience
+
+### 🧑‍💻 Data Analyst and Machine Learning Freelance Consultant
+*May 2021 - Present*
+- 📊 Provided data analysis, machine learning model training, and Excel-related services to US clients.
+- 💼 Conducted financial analysis, constructed portfolios, and performed quantitative research.
+
+### 🏭 Assistant Manager at United Printing Press
+*December 2007 - May 2021*
+- 📅 Managed daily operations, production schedules, and supervised staff.
+- 🚀 Streamlined production processes and improved efficiency.
 
 ## 🎓 Education
 
