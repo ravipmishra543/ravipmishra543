@@ -8,7 +8,7 @@
 ## 🔗 Connect with Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/ravi-prakash-mishra-4362aa258"><img src="https://img.shields.io/badge/LinkedIn-Ravi%20Prakash%20Mishra-blue?style=flat-square&logo=linkedin"></a>
+  <a href="https://www.linkedin.com/in/ravi-prakash-mishra-4362aa258"><img src="https://img.shields.io/badge/LinkedIn-Ravi%20Prakash%20Mishra-blue?style=flat-square&logo=linkedin"></a>
   <a href="https://github.com/ravipmishra543"><img src="https://img.shields.io/badge/GitHub-ravipmishra543-lightgrey?style=flat-square&logo=github"></a>
 </p>
 
